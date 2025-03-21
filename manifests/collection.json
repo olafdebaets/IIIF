@@ -1,0 +1,15 @@
+{
+  "id" : "https://olafdebaets.github.io/IIIF/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in olafdebaets/IIIF project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "id" : "https://olafdebaets.github.io/IIIF/manifests/manifest.json",
+    "label" : {
+      "en" : [ "Blank Manifest" ]
+    },
+    "type" : "Manifest"
+  } ]
+}
